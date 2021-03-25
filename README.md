@@ -8,3 +8,5 @@ Use cyclegan to transfer the relationship between volume and price
 1.使用循環生成對抗網路來觀察量價關係，並且證明量價關係可以被此神經網路所學習。 
 
 2.透過假設循環生成對抗網路的結果來預測股價。
+
+![image](https://user-images.githubusercontent.com/63281304/112474419-8fb6a300-8daa-11eb-8925-c1c11e6f1c32.png)
